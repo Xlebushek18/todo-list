@@ -1,4 +1,17 @@
-# todo-list
+# Todo-list
+
+# Планировщик задач — TodoList
+
+Учебный проект на Vue 3 и TypeScript. [(Демонстрация проекта)](https://xlebushek18.github.io/todo-list/)
+
+## Стек
+
+- Vue 3 (API параметров)
+- TypeScript
+- HTML
+- CSS
+- Vue CLI
+
 
 ## Project setup
 ```
